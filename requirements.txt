@@ -1,0 +1,7 @@
+tensorflow-cpu
+scikit-learn
+numpy
+pyngrok
+requests
+pillow
+pytest-shutil
