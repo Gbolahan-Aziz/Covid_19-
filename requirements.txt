@@ -141,4 +141,4 @@ tqdm
 uritemplate==3.0.1
 urllib3==1.25.9
 wcwidth==0.2.4
-zipp==3.4.1
+zipp
