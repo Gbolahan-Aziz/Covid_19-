@@ -1,17 +1,9 @@
 httplib2
 imageio
 json5
-notebook
 numpy
-opencv-python
-opencv-python-headless
-pandas
-parso
-path
 Pillow
 pyngrok
-pyOpenSSL
-pyparsing
 requests 
 requests-oauthlib
 streamlit
@@ -19,5 +11,3 @@ tensorflow-cpu
 tensorflow-model-optimization
 uritemplate
 urllib3
-wcwidth
-zipp
