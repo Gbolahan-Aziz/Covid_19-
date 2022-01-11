@@ -1,9 +1,3 @@
-altair
-apipkg
-astor
-astunparse
-attrs
-avro-python
 backcall
 bleach
 blinker
