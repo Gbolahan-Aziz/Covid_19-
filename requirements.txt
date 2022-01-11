@@ -142,8 +142,8 @@ Send2Trash==1.5.0
 sentencepiece==0.1.95
 seqeval==1.2.2
 six==1.15.0
-smmap @ file
-streamlit @ file
+smmap
+streamlit
 tensorboard==2.5.0
 tensorboard-data-server==0.6.0
 tensorboard-plugin-wit==1.8.0
