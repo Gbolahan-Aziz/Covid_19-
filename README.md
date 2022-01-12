@@ -1,4 +1,3 @@
-![Contributors](https://img.shields.io/github/contributors/Gbolahan-Aziz/Covid_19-?logoColor=green&style=plastic)
 # Covid_19 Detector
 
 ![alt text](https://media.premiumtimesng.com/wp-content/files/2021/11/Coronavirus-used-to-tell-the-story.jpg)
@@ -25,3 +24,5 @@ Steps to install this project include :
 - [Requests](https://docs.python-requests.org/)
 - [IO](https://docs.python.org/3/library/io.html)
 - [Streamlit](https://streamlit.io/)
+
+![Contributors](https://img.shields.io/github/contributors/Gbolahan-Aziz/Covid_19-?logoColor=green&style=plastic)
