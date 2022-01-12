@@ -1,5 +1,7 @@
 # Covid_19 Detector
 
+![alt text](https://media.premiumtimesng.com/wp-content/files/2021/11/Coronavirus-used-to-tell-the-story.jpg)
+
 This project is inspired by the ongoing number of covid_19 cases worldwide. In Nigeria it has been reported that some patient were wrongly Quarantined because they inhabited covid sypmtoms,
 whereas they had common cold or pnemonia. This prompt me to build a Computer Vision project that easily distinguishes between a patient with Covid and a patient with Pnemonia from a pateint with neither of the two.
 This would help doctors be more efficient in treating their patients.
