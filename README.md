@@ -1,4 +1,4 @@
-[Contributors](https://img.shields.io/github/contributors/Gbolahan-Aziz/Covid_19-?logoColor=green&style=plastic)
+![Contributors](https://img.shields.io/github/contributors/Gbolahan-Aziz/Covid_19-?logoColor=green&style=plastic)
 # Covid_19 Detector
 
 ![alt text](https://media.premiumtimesng.com/wp-content/files/2021/11/Coronavirus-used-to-tell-the-story.jpg)
